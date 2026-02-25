@@ -89,9 +89,10 @@ make re       # Rebuild from scratch
 
 ### Architecture
 - **so_long.c** — Main game loop and initialization
-- **map_*.c** — Map parsing, validation, and pathfinding
+- **map\*.c** — Map parsing, validation, and pathfinding
 - **render.c** — Graphics rendering engine
-- **input*.c** — Keyboard event handling
+- **input\*.c** — Keyboard event handling
+- **error.c** — Error handling and validation messages
 - **frees.c** — Memory cleanup to prevent leaks
 
 ### Map Format (.ber)
