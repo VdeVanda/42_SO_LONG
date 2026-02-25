@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by VdeVanda.*
+*This project has been created as part of the 42 curriculum by vabatist.*
 
 ---
 
@@ -8,6 +8,11 @@
 
 <div align="center">
   <p><strong>A retro 2D game inspired by Chuckie Egg, built from scratch in C</strong></p>
+  <br>
+  <img src="https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=c" alt="C">
+  <img src="https://img.shields.io/badge/Graphics-MiniLibX-black?style=flat-square" alt="MiniLibX">
+  <img src="https://img.shields.io/badge/Memory-Leak%20Free-brightgreen?style=flat-square" alt="No Memory Leaks">
+  <img src="https://img.shields.io/badge/42-Norm%20Compliant-yellow?style=flat-square" alt="42 Norm">
 </div>
 
 ## Description
@@ -114,7 +119,7 @@ Maps are text files with:
 
 Navigate the map, collect all items (C), and reach the exit (E) without hitting walls. The number of moves is displayed in the terminal window.
 
-💡 **Pro tip**: Use the Flood Fill algorithm to verify that all collectibles are reachable before attempting a map!
+> 💡 **Pro tip**: Use the Flood Fill algorithm to verify that all collectibles are reachable before attempting a map!
 
 ---
 
