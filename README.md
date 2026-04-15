@@ -15,6 +15,15 @@
   <img src="https://img.shields.io/badge/42-Norm%20Compliant-yellow?style=flat-square" alt="42 Norm">
 </div>
 
+#
+```text
+███████╗ ██████╗     ██╗      ██████╗ ███╗   ██╗ ██████╗ 
+██╔════╝██╔═══██╗    ██║     ██╔═══██╗████╗  ██║██╔════╝ 
+███████╗██║   ██║    ██║     ██║   ██║██╔██╗ ██║██║  ███╗
+╚════██║██║   ██║    ██║     ██║   ██║██║╚██╗██║██║   ██║
+███████║╚██████╔╝    ███████╗╚██████╔╝██║ ╚████║╚██████╔╝
+╚══════╝ ╚═════╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝
+```
 ## Description
 
 **so_long** is a small 2D game developed in **C** using the **MiniLibX** library. The project is a tribute to the 1983 classic **Chuckie Egg** on the **ZX Spectrum**—a game that combines nostalgia with the challenge of navigating a map while collecting items.
